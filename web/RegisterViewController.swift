@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  RegisterViewController.swift
 //  web
 //
 //  Created by Ahmed Burham on 9/27/17.
@@ -9,39 +9,14 @@
 import UIKit
 import Alamofire
 import SwiftyJSON
-class ViewController: UIViewController {
-
+class RegisterViewController: UIViewController {
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-                
-        let Data = podex(_name: "taha",_podex_ID: 4)
-    }
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
+        
+        
+        
+        
+    }    }
